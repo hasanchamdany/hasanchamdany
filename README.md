@@ -2,7 +2,7 @@
 ![Profile views](https://gpvc.arturio.dev/hasanchamdany)
 <br>
 
-<img align="right" src="./hwehehe.gif" style="width:400px"/>
+<img align="right" src="./hwehehe.gif" style="width:380px"/>
 
 <br>
 
