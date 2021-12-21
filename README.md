@@ -33,5 +33,5 @@
 <!-- [![Hasan CHamdany Github Stats](https://github-readme-stats.vercel.app/api?username=hasanchamdany&theme=nord&show_icons=true&hide=stars,issues&count_private=true&theme=mord)](https://github.com/hasanchamdany) -->
 [![hasanchamdany's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasanchamdany&show_icons=true&theme=radical&hide=stars,issues&count_private=true)](https://github.com/hasanchamdany)
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JovianReynaldo&theme=nord&layout=compact&show_icons=true) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanchamdany&theme=nord&layout=compact&show_icons=true)](https://github.com/hasanchamdany/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanchamdany&theme=radical&layout=compact&show_icons=true)](https://github.com/hasanchamdany/github-readme-stats)
 
