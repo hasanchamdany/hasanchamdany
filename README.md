@@ -1,6 +1,6 @@
 ### Hi there 👋 i am Hasan Chamdany
 ![Profile views](https://gpvc.arturio.dev/JovianReynaldo)
-<img align="right" src="./hwehehe.gif" />
+<img align="right" src="./hwehehe.gif" style="width:200px"/>
 
 <br>
 
@@ -29,7 +29,7 @@
 
 
   
-[![Hasan CHamdany Github Stats](https://github-readme-stats.vercel.app/api?username=hasanchamdany&theme=nord&show_icons=true&hide=stars,issues&count_private=true&theme=radical)](https://github.com/hasanchamdany)
+[![Hasan CHamdany Github Stats](https://github-readme-stats.vercel.app/api?username=hasanchamdany&theme=nord&show_icons=true&hide=stars,issues&count_private=true&theme=dracula)](https://github.com/hasanchamdany)
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JovianReynaldo&theme=nord&layout=compact&show_icons=true) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanchamdany&theme=nord&layout=compact&show_icons=true)](https://github.com/hasanchamdany/github-readme-stats)
 
