@@ -2,7 +2,7 @@
 ![Profile views](https://gpvc.arturio.dev/hasanchamdany)
 <br>
 
-<img align="right" src="./hwehehe.gif" style="width:200px"/>
+<img align="right" src="./hwehehe.gif" style="width:400px"/>
 
 <br>
 
@@ -29,9 +29,9 @@
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
 
-
+<br>
   
-[![Hasan CHamdany Github Stats](https://github-readme-stats.vercel.app/api?username=hasanchamdany&theme=nord&show_icons=true&hide=stars,issues&count_private=true&theme=dracula)](https://github.com/hasanchamdany)
+[![Hasan CHamdany Github Stats](https://github-readme-stats.vercel.app/api?username=hasanchamdany&theme=nord&show_icons=true&hide=stars,issues&count_private=true&theme=mord)](https://github.com/hasanchamdany)
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JovianReynaldo&theme=nord&layout=compact&show_icons=true) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanchamdany&theme=nord&layout=compact&show_icons=true)](https://github.com/hasanchamdany/github-readme-stats)
 
