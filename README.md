@@ -11,7 +11,7 @@
 - ☎️ Pronouns: He/him 
 - 😆 Fun fact: I am Single for 20 years
 - 🥅 2022 Goals: Have more interesting android and web project
-- 🥇 2022 Revolution: Contribute to many project and joining hackathon competitio
+- 🥇 2022 Revolution: Contribute to many project and joining hackathon competition
 - 🎲 Let's play together 
 - 👋 see you around 
 - 💬 Feel free to reach me 
