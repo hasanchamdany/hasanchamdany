@@ -23,13 +23,19 @@
 <br>
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/kotlin/kotlin.png" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
-<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />
-<img align="left" width="26px" src="https://code.visualstudio.com/favicon.ico" />
+<img align="left" width="26px" src="https://img.icons8.com/color/48/000000/flutter.png"/>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
 <img align="left" width="26px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+<img align="left" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+<img align="left" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
+<img align="left" width="26px" src="https://img.icons8.com/color/48/000000/flutter.png"/>
+<img align="left" width="26px" src="https://img.icons8.com/color/48/000000/git.png"/>
+<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />
+<img align="left" width="26px" src="https://code.visualstudio.com/favicon.ico" />
+<img align="left" widht="26px" src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/>
 
 <br>
 <br>
