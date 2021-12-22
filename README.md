@@ -2,18 +2,20 @@
 ![Profile views](https://gpvc.arturio.dev/hasanchamdany)
 <br>
 
-<img align="right" src="./hwehehe.gif" style="width:380px"/>
+<img align="right" src="./hwehehe.gif" style="width:390px"/>
 
 <br>
-- 🏫 I'm a Information Engineering 2020 students of UGM
+
+- 👨‍🎓 I'm an Information Engineering 2020 students of UGM
 - 🖥️ I’m currently learning JavaScript for web and flutter framework for android
-- 💬 Feel free to reach me 
-- 📫 How to reach me: [my linkedin](https://www.linkedin.com/in/muchammad-hasan-chamdany-090a1a196/) 
-- 👨‍🎨 Pronouns: He/him 
+- ☎️ Pronouns: He/him 
 - 😆 Fun fact: I am Single for 20 years
 - 🥅 2022 Goals: Have more interesting android and web project
-- 🥇 2022 Revolution: Contribute to many project and joining hackathon competition 
-- 🎲 Let's play together  
+- 🥇 2022 Revolution: Contribute to many project and joining hackathon competitio
+- 🎲 Let's play together 
+- 👋 see you around 
+- 💬 Feel free to reach me 
+- 📫 How to reach me: [my linkedin](https://www.linkedin.com/in/muchammad-hasan-chamdany-090a1a196/) 
 
 <br>
 
@@ -30,9 +32,9 @@
 
 <br>
 <br>
-  
+
 <!-- [![Hasan CHamdany Github Stats](https://github-readme-stats.vercel.app/api?username=hasanchamdany&theme=nord&show_icons=true&hide=stars,issues&count_private=true&theme=mord)](https://github.com/hasanchamdany) -->
-[![hasanchamdany's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasanchamdany&show_icons=true&theme=radical&hide=stars,issues&count_private=true)](https://github.com/hasanchamdany)
+[![hasanchamdany's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasanchamdany&show_icons=true&theme=radical&hide=start,issues&count_private=true)](https://github.com/hasanchamdany)
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JovianReynaldo&theme=nord&layout=compact&show_icons=true) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanchamdany&theme=radical&layout=compact&show_icons=true)](https://github.com/hasanchamdany/github-readme-stats)
 
