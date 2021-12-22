@@ -5,15 +5,15 @@
 <img align="right" src="./hwehehe.gif" style="width:380px"/>
 
 <br>
-
-- 🌱 I’m currently learning JavaScript for web and flutter framework for android
+- 🏫 I'm a Information Engineering 2020 students of UGM
+- 🖥️ I’m currently learning JavaScript for web and flutter framework for android
+- 👨‍🎨 Pronouns: He/him 
+- 😆 Fun fact: I am Single for 20 years
+- 🥅 2022 Goals: Have more interesting android and web project
+- 🥇 2022 Revolution: Contribute to many project and joining hackathon competition 
+- 🎲 Let's play together  
 - 💬 Feel free to reach me 
 - 📫 How to reach me: [my linkedin](https://www.linkedin.com/in/muchammad-hasan-chamdany-090a1a196/) 
-- 😂 Pronouns: He/him 
-- 💖 Fun fact: I am Single for 20 years
-- 🥅 2022 Goals: Have more interesting android and web project 
-- 🎲 Let's play together 
-- 👋 see you around 
 
 <br>
 
