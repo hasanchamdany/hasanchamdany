@@ -30,7 +30,6 @@
 <img align="left" width="26px" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 <img align="left" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 <img align="left" width="26px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
-<img align="left" width="26px" src="https://img.icons8.com/color/48/000000/flutter.png"/>
 <img align="left" width="26px" src="https://img.icons8.com/color/48/000000/git.png"/>
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />
 <img align="left" width="26px" src="https://code.visualstudio.com/favicon.ico" />
