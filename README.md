@@ -9,7 +9,7 @@
 - 👨‍🎓 I'm an Information Engineering 2020 students of UGM
 - 🖥️ I’m currently learning JavaScript for web and flutter framework for android
 - ☎️ Pronouns: He/him 
-- 😆 Fun fact: I am Single for 20 years
+- 😆 Fun fact: I am Single for 19 years and finally found a love in 2022 :)
 - 🥅 2022 Goals: Have more interesting android and web project
 - 🥇 2022 Revolution: Contribute to many project and joining hackathon competition
 - 🎲 Let's play together 
