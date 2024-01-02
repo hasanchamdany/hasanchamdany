@@ -1,5 +1,5 @@
 ### Hi there 👋 i am Muchammad Hasan Chamdany
-![Profile views](https://gpvc.arturio.dev/hasanchamdany)
+[![](https://visitcount.itsvg.in/api?id=hasanchamdany&icon=0&color=0)](https://visitcount.itsvg.in)
 <br>
 
 <img align="right" src="./frieren.gif" style="width:390px"/>
@@ -25,6 +25,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=hasanchamdany&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hasanchamdany&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
