@@ -7,7 +7,7 @@
 <br>
 
 # 💫 About Me:
-👨‍🎓 I'm a Final Year students Information Engineering of UGM<br>🖥️ I’m mostly comfort with software engineer (Fullstack Web Developer), IoT Developer and least of AI or Data project<br>☎️ Pronouns: He/him<br>😆 Fun fact: I am Single :v<br>🎯2024 Goals: Finish my Final Duty on campus and Learn many Frameworks also joining a lot of internships<br>🔮 2024 Revolution: Contribute to many project and keep growing<br>🎲 Let's play together<br>👋 see you around
+👨‍🎓 I'm a Software Engineer at Dash Electric <br>🖥️ I’m mostly comfort with software engineer (Fullstack Web Developer), IoT Developer and least of AI or Data project<br>☎️ Pronouns: He/him<br>😆 Fun fact: I am Single :v<br>🎯2025 Goals: Deep dive into software engineering architecture<br>🔮 2025 Revolution: Contribute to many project and keep growing<br>🎲 Let's play together<br>👋 see you around
 
 <br>
 
